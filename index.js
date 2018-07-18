@@ -20,7 +20,8 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles(num) {
   const numberBeatles = []
   do {
-    numberBeatles.push('I Love The Beatles')
+    numberBeatles.push('I love the Beatles!')
   } while(num<15)
+  
   }
 }
